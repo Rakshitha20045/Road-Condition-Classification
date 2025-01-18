@@ -36,7 +36,7 @@ Source : https://www.kaggle.com/datasets/prudhvignv/road-damage-classification-a
 # Installation Steps:
 1.Clone this repository
 2.Install the required dependencies
-pip install tensorflow==2.10.0 numpy==1.23.5 matplotlib==3.6.3 scikit-learn==1.1.3 seaborn==0.11.2 Pillow==9.2.0 h5py==3.7.0
+pip install tensorflow, numpy,matplotlib,scikit-learn,seaborn,Pillow
 3.Download the trained models: 
 
 4.Once the model is trained, evaluate it on the test dataset based pn
