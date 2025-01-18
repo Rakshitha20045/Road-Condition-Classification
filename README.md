@@ -55,6 +55,10 @@ pip install tensorflow==2.10.0 numpy==1.23.5 matplotlib==3.6.3 scikit-learn==1.1
 # Results Visualization 
 
 ![Image](https://github.com/user-attachments/assets/b665b729-b09e-4cf8-b6d0-8054d38bf92d)
+![Image](https://github.com/user-attachments/assets/4044d4fa-d21f-45ee-a95f-b244fca6bdcd)
+![Image](https://github.com/user-attachments/assets/6af2ef22-1c27-446e-a5ab-84787a756029)
+![Image](https://github.com/user-attachments/assets/942ee755-880f-4976-b5b9-3f3caaba563f)
+![Image](https://github.com/user-attachments/assets/38e35e2e-b7d7-4175-9e06-5f27a7f7f1f2)
 
 
 
