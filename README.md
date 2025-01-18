@@ -18,10 +18,10 @@ Poor: Roads with moderate damage or degradation.
 Satisfactory: Roads with minimal damage or wear.
 Good: Roads in perfect condition
 
-# Total images: 1,272
-# Training images: 1,016 (80% of the dataset)
-# Testing images: 256 (20% of the dataset)
-# Source : https://www.kaggle.com/datasets/prudhvignv/road-damage-classification-and-assessment/data
+Total images: 1,272
+Training images: 1,016 (80% of the dataset)
+Testing images: 256 (20% of the dataset)
+Source : https://www.kaggle.com/datasets/prudhvignv/road-damage-classification-and-assessment/data
 
 # Setup and Installation
 
